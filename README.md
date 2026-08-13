@@ -1,5 +1,8 @@
-# EBAC - Front-end
-## Exercício consistia em:
+# EBAC- FullStack Designer 
+
+## Projeto realizado durante o módulo 10 sobre jQuery
+
+### Atribuições realizadas:
 
 - criar um menu hamburguer funcional que se expande e recolhe adequadamente em resposta às ações do usuário, como cliques ou toques; 
 - criar um carrossel de imagens que mude automaticamente para exibir várias imagens em sequência;
